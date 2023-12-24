@@ -79,9 +79,4 @@ __welcome Readme file for bold__
 <!-- list [  [title](link) ] -->
 
 [facebook link](www.facebook.com)
-
-<!-- img ![title](img) -->
-![book-img](book-1-img.jpg)
-<img src="book-img.jpg" > 
-
 <!-- table -->
