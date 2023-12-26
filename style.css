@@ -1,0 +1,56 @@
+/* common style start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+html{
+    scroll-behavior: smooth;
+    background-color: #fff;
+    /* font-family: 'Italianno', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+.contaner{
+   width: 55rem;
+    margin: 0 auto;
+    background-color: #fafaff;
+   box-shadow:0.1rem 0.1rem 0.1rem #fafafa;
+}
+/* common style end */
+/* Responsive style start */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 700px) {
+    #baner-section{
+        display: flex;
+        flex-direction: column;       
+    }
+}
+/* Responsive style end */
+/* baner section start */
+#baner-section{
+    box-sizing: border-box;
+    display: flex;
+    min-height: 95vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+.article-text{
+  font-size: 1.5rem;
+}
+.article-text h1{
+    font-family: 'Italianno', cursive;
+    font-size: 4rem;
+}
+.aside-img{
+   width: 70%;
+   height: auto;
+   border: 0.5rem solid black;
+   border-radius: 0.5rem;
+}
+/* baner section end */
