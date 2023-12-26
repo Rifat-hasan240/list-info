@@ -77,6 +77,7 @@ __welcome Readme file for bold__
  - [x] git and github
 
 <!-- list [  [title](link) ] -->
-
+# img
+<img src="book-img.jpg" width="500px">
 [facebook link](www.facebook.com)
 <!-- table -->
