@@ -4,7 +4,8 @@
 Html  
 Css  
 boostrap  
-Git  
+Git 
+javascript
 <!-- Orijantal for'--- or html sentex'   -->
 # Number-2
 ---    
@@ -57,6 +58,7 @@ __welcome Readme file for bold__
 2.CSS  
 3.BOOSTRAP  
 4.GIT and Github  
+5.javascript
 <!-- order-list[-] -->
 # order-list-circle
 
@@ -75,6 +77,7 @@ __welcome Readme file for bold__
  - [x]  css
  - [x] boostrap 
  - [x] git and github
+ - [x] javascript 
 
 <!-- list [  [title](link) ] -->
 # img
