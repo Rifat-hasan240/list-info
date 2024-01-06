@@ -4,7 +4,7 @@
 Html  
 Css  
 boostrap  
-Git 
+Git and github
 javascript
 <!-- Orijantal for'--- or html sentex'   -->
 # Number-2
