@@ -46,7 +46,8 @@ __welcome Readme file for bold__
 
  <body>
    
-         <h1>this is a heading tag </h1>
+         <h1>this is a heading tag <h1/>
+         <p> this is paragrap tag <p/>
 
  </body>     
 </html>
